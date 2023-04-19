@@ -8,8 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nniki\\.nuget\\packages\\": {},
-    "D:\\sdk\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\nniki\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -20,12 +19,8 @@
       "packagesPath": "C:\\Users\\nniki\\.nuget\\packages\\",
       "outputPath": "D:\\another\\обучение\\универ\\ООП - 2 сем\\Labs\\Lab_1\\Lab_1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\sdk\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\nniki\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
