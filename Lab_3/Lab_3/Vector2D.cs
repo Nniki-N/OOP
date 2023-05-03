@@ -20,7 +20,7 @@ namespace Lab_3
 
         public IVector Sum(IVector vector)
         {
-            Vector2D v = vector as Vector2D;
+            Vector2D? v = vector as Vector2D;
 
             if (v == null)
             {
@@ -37,7 +37,7 @@ namespace Lab_3
 
         public double DotProduct(IVector vector)
         {
-            Vector2D v = vector as Vector2D;
+            Vector2D? v = vector as Vector2D;
             if (v == null)
             {
                 throw new ArgumentException("Argument must be a Vector2D object.");
